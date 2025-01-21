@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<img src="https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/678ffda831f58705c1e28ca7_rosieee.png" width="300px" alt="Rosie Explorer Logo">
+<img src="https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/678ffda831f58705c1e28ca7_rosieee.png" width="800px" alt="Rosie Explorer Logo">
 </div>
 
 ## 🚀 What is RosieExplorer?
