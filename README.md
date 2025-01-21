@@ -7,6 +7,10 @@
 [![Selenium](https://img.shields.io/badge/Selenium-4.15.2-red)](https://www.selenium.dev/)
 </div>
 
+<div align="center">
+<img src="https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/678ffda831f58705c1e28ca7_rosieee.png" width="300px" alt="Rosie Explorer Logo">
+</div>
+
 ## 🚀 What is RosieExplorer?
 
 RosieExplorer is a cutting-edge web automation agent that leverages the power of Large Multimodal Models (LMMs) to navigate and interact with real-world websites. By combining visual and textual understanding, RosieExplorer can execute complex web tasks autonomously while maintaining natural interaction patterns.
@@ -131,6 +135,25 @@ Generate diverse tasks for {website} considering:
 3. Reasonable time constraints
 4. Varied interaction patterns
 ```
+
+## 📝 Citation
+
+```bibtex
+@article{he2024rosieexplorer,
+  title={RosieExplorer: Building an End-to-End Web Agent with Large Multimodal Models},
+  author={He, Hongliang and Yao, Wenlin and Ma, Kaixin and Yu, Wenhao and Dai, Yong and Zhang, Hongming and Lan, Zhenzhong and Yu, Dong},
+  journal={arXiv preprint arXiv:2401.13919},
+  year={2024}
+}
+```
+
+## ⚠️ Disclaimer
+
+This project is not officially supported by Tencent. The system's output is influenced by multiple factors including API responses, website changes, and prompt variations. We do not guarantee accuracy or assume responsibility for:
+- Model-generated content
+- Accessed web content
+- Data processing results
+- Any consequential losses
 
 ## 📫 Issues and Support
 
