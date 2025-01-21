@@ -1,6 +1,6 @@
 <div align="center">
 <h1> WebVoyager 
-<img src="./assets/icon.png" width="45px">
+<img src="[./assets/icon.png](https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/678ff53958c6a238736cbb28_rosieexplorer.png)" width="45px">
 <br> Building an End-to-End Web Agent with Large Multimodal Models </h1>
 </div>
 
